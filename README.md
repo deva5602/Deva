@@ -44,8 +44,7 @@ I am **Devansh Shinde**, a passionate **Data Analyst** with expertise in extract
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevanshShinde&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devanshshinde&layout=compact&theme=radical" width="45%"/>
-</p>
+<p align="center"> <img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24"/> Python (40%) &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="24"/> R (20%) &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="24"/> Java (10%) &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="24"/> SQL (30%) </p> <p align="center"> <img src="https://progress-bar.dev/40/?title=Python&width=250&color=blue" /> <img src="https://progress-bar.dev/20/?title=R&width=250&color=purple" /> <img src="https://progress-bar.dev/10/?title=Java&width=250&color=orange" /> <img src="https://progress-bar.dev/30/?title=SQL&width=250&color=teal" /> </p>
 
 ---
 
@@ -53,7 +52,7 @@ I am **Devansh Shinde**, a passionate **Data Analyst** with expertise in extract
 
 - 💼 LinkedIn: [linkedin.com/in/devanshshinde05](https://www.linkedin.com/in/devanshshinde05/)
 - 📧 Email: devanshsinde2002@gmail.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: https://drive.google.com/file/d/11MTlJm1-IGDs_sxAZDaUooSXbOoP7ahr/view?usp=sharing
 
 ---
 
